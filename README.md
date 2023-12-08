@@ -1,2 +1,2 @@
-# propar
-Projectile Paradise, a bullet heaven style game in html 5.
+# Projectile Paradise
+Html5 bullet heaven style game.
